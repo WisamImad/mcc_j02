@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192789427791",
+    "project_id": "mobilecloud-c",
+    "storage_bucket": "mobilecloud-c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192789427791:android:9dbe2e1823782d45619c3a",
+        "android_client_info": {
+          "package_name": "com.example.mcc_j02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192789427791-q42s78l4ihgvn0vhknai3elhn1ahf0en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8DC9dNbw29nrTYYbEGMfvwi3SKs1wL2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192789427791-q42s78l4ihgvn0vhknai3elhn1ahf0en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
